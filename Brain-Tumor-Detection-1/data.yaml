@@ -1,0 +1,14 @@
+names:
+- '------------------------------'
+- Brain Tumor - v4 2024-09-05 1-40pm
+- Brain Tumor - v5 2025-03-18 8-09pm
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: brain-tumor-detection-gos2k
+  url: https://universe.roboflow.com/likhithworkspace/brain-tumor-detection-gos2k/dataset/1
+  version: 1
+  workspace: likhithworkspace
+test: C:\Users\likhi\PycharmProjects\PythonProject\Brain-Tumor-Detection-1\test
+train: C:\Users\likhi\PycharmProjects\PythonProject\Brain-Tumor-Detection-1\train
+val: C:\Users\likhi\PycharmProjects\PythonProject\Brain-Tumor-Detection-1\valid
